@@ -1,5 +1,5 @@
 asyncio 
-pyrogram
+Pyrogram==2.0.106
 tgcrypto
 requests
 bs4
