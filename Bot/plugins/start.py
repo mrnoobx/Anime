@@ -22,15 +22,15 @@ LINK = [
 BUTTONS_DEV = IKM(
     [
         [
-            IKB('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/sohailkhan_indianime'),
-            IKB('ɢɪᴛʜᴜʙ', url = 'https://github.com/soheru')
+            IKB('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Labani_Botz'),
+            IKB('ɢɪᴛʜᴜʙ', url = 'https://github.com/mrlabani')
         ],
         [
-            IKB('ᴡᴇʙsɪᴛᴇ', url='https://soheru.in'),
-            IKB('ᴄʜᴀɴɴᴇʟ', url='https://t.me/aboutmesk'),
+            IKB('ᴡᴇʙsɪᴛᴇ', url='https://mrlabani.vercel.app'),
+            IKB('ᴄʜᴀɴɴᴇʟ', url='https://t.me/x_04i'),
         ],
         [
-            IKB('ɪɴsᴛᴀɢʀᴀᴍ', url='https://instagram.com/soherusan'),
+            IKB('ɪɴsᴛᴀɢʀᴀᴍ', url='https://instagram.com/_.n_o_o_b._'),
             IKB('ʜᴏᴍᴇ', 'call_start_or_go_back')
         ]
     ]
